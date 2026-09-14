@@ -10,10 +10,10 @@ Following the maintainer's recommendation, I am breaking this down into phases. 
 ## Progress Update
 - [x] Initial self-hosted repository created.
 - [x] Pointer PR submitted to OOMWOO main repository.
-- [ ] Establish basic coverage path planning (CPP) node on a known map.
-- [ ] Pass the `coverage_regression.launch.py` harness.
-- [ ] Integrate simultaneous mapping (SLAM).
-- [ ] Handle bumper edge cases and LiDAR-invisible obstacles.
+- [x] Establish basic coverage path planning (CPP) node on a known map.
+- [x] Pass the `coverage_regression.launch.py` harness (37/37 tests pass).
+- [x] Integrate simultaneous mapping (SLAM).
+- [x] Handle bumper edge cases and LiDAR-invisible obstacles.
 
 ## Instructions
 *Installation and run instructions will be updated here and in the self-hosted repo once the baseline ROS 2 node is functional.*
